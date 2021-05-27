@@ -5,11 +5,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/Senither/Hypixel-Skyblock-Leaderboard/pull/17) in [Senither/Hypixel-Skyblock-Leaderboard](https://github.com/Senither/Hypixel-Skyblock-Leaderboard)
-2. 🎉 Merged PR [#3](https://github.com/Senither/hypixel-skyblock-guild-scanner/pull/3) in [Senither/hypixel-skyblock-guild-scanner](https://github.com/Senither/hypixel-skyblock-guild-scanner)
-3. 🎉 Merged PR [#2](https://github.com/Senither/hypixel-skyblock-guild-scanner/pull/2) in [Senither/hypixel-skyblock-guild-scanner](https://github.com/Senither/hypixel-skyblock-guild-scanner)
-4. 🎉 Merged PR [#12](https://github.com/avaire/leaderboard/pull/12) in [avaire/leaderboard](https://github.com/avaire/leaderboard)
-5. 🎉 Merged PR [#22](https://github.com/avaire/website/pull/22) in [avaire/website](https://github.com/avaire/website)
+1. 🎉 Merged PR [#17](https://github.com/Senither/ShareX-Media-Server/pull/17) in [Senither/ShareX-Media-Server](https://github.com/Senither/ShareX-Media-Server)
+2. 🎉 Merged PR [#18](https://github.com/Senither/Hypixel-Skyblock-Leaderboard/pull/18) in [Senither/Hypixel-Skyblock-Leaderboard](https://github.com/Senither/Hypixel-Skyblock-Leaderboard)
+3. 🎉 Merged PR [#16](https://github.com/Senither/ShareX-Media-Server/pull/16) in [Senither/ShareX-Media-Server](https://github.com/Senither/ShareX-Media-Server)
+4. 🎉 Merged PR [#13](https://github.com/avaire/leaderboard/pull/13) in [avaire/leaderboard](https://github.com/avaire/leaderboard)
+5. 🎉 Merged PR [#23](https://github.com/avaire/website/pull/23) in [avaire/website](https://github.com/avaire/website)
 <!--END_SECTION:activity-->
 
 [website]: https://senither.com
