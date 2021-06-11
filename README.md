@@ -5,11 +5,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/Senither/Hypixel-Skyblock-Assistant/pull/18) in [Senither/Hypixel-Skyblock-Assistant](https://github.com/Senither/Hypixel-Skyblock-Assistant)
-2. 🎉 Merged PR [#19](https://github.com/Senither/Hypixel-Skyblock-Assistant/pull/19) in [Senither/Hypixel-Skyblock-Assistant](https://github.com/Senither/Hypixel-Skyblock-Assistant)
-3. 🎉 Merged PR [#20](https://github.com/Senither/Hypixel-Skyblock-Assistant/pull/20) in [Senither/Hypixel-Skyblock-Assistant](https://github.com/Senither/Hypixel-Skyblock-Assistant)
-4. 🗣 Commented on [#7](https://github.com/Senither/hypixel-skyblock-facade/issues/7) in [Senither/hypixel-skyblock-facade](https://github.com/Senither/hypixel-skyblock-facade)
-5. ❗️ Closed issue [#7](https://github.com/Senither/hypixel-skyblock-facade/issues/7) in [Senither/hypixel-skyblock-facade](https://github.com/Senither/hypixel-skyblock-facade)
+1. 🎉 Merged PR [#23](https://github.com/Senither/hypixel-discord-chat-bridge/pull/23) in [Senither/hypixel-discord-chat-bridge](https://github.com/Senither/hypixel-discord-chat-bridge)
+2. 🎉 Merged PR [#18](https://github.com/Senither/Hypixel-Skyblock-Assistant/pull/18) in [Senither/Hypixel-Skyblock-Assistant](https://github.com/Senither/Hypixel-Skyblock-Assistant)
+3. 🎉 Merged PR [#19](https://github.com/Senither/Hypixel-Skyblock-Assistant/pull/19) in [Senither/Hypixel-Skyblock-Assistant](https://github.com/Senither/Hypixel-Skyblock-Assistant)
+4. 🎉 Merged PR [#20](https://github.com/Senither/Hypixel-Skyblock-Assistant/pull/20) in [Senither/Hypixel-Skyblock-Assistant](https://github.com/Senither/Hypixel-Skyblock-Assistant)
+5. 🗣 Commented on [#7](https://github.com/Senither/hypixel-skyblock-facade/issues/7) in [Senither/hypixel-skyblock-facade](https://github.com/Senither/hypixel-skyblock-facade)
 <!--END_SECTION:activity-->
 
 [website]: https://senither.com
