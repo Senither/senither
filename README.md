@@ -5,7 +5,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/Senither/ShareX-Media-Server/issues/19) in [Senither/ShareX-Media-Server](https://github.com/Senither/ShareX-Media-Server)
+1. ❗️ Closed issue [#19](https://github.com/Senither/ShareX-Media-Server/issues/19) in [Senither/ShareX-Media-Server](https://github.com/Senither/ShareX-Media-Server)
 2. 🗣 Commented on [#19](https://github.com/Senither/ShareX-Media-Server/issues/19) in [Senither/ShareX-Media-Server](https://github.com/Senither/ShareX-Media-Server)
 3. 🗣 Commented on [#19](https://github.com/Senither/ShareX-Media-Server/issues/19) in [Senither/ShareX-Media-Server](https://github.com/Senither/ShareX-Media-Server)
 4. 🗣 Commented on [#19](https://github.com/Senither/ShareX-Media-Server/issues/19) in [Senither/ShareX-Media-Server](https://github.com/Senither/ShareX-Media-Server)
