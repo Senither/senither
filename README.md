@@ -5,11 +5,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#20](https://github.com/Senither/ShareX-Media-Server/issues/20) in [Senither/ShareX-Media-Server](https://github.com/Senither/ShareX-Media-Server)
-2. 🗣 Commented on [#20](https://github.com/Senither/ShareX-Media-Server/issues/20) in [Senither/ShareX-Media-Server](https://github.com/Senither/ShareX-Media-Server)
-3. 🗣 Commented on [#22](https://github.com/Senither/ShareX-Media-Server/issues/22) in [Senither/ShareX-Media-Server](https://github.com/Senither/ShareX-Media-Server)
-4. 🎉 Merged PR [#22](https://github.com/Senither/ShareX-Media-Server/pull/22) in [Senither/ShareX-Media-Server](https://github.com/Senither/ShareX-Media-Server)
-5. 🗣 Commented on [#22](https://github.com/Senither/ShareX-Media-Server/issues/22) in [Senither/ShareX-Media-Server](https://github.com/Senither/ShareX-Media-Server)
+1. 🗣 Commented on [#24](https://github.com/Senither/ShareX-Media-Server/issues/24) in [Senither/ShareX-Media-Server](https://github.com/Senither/ShareX-Media-Server)
+2. ❗️ Closed issue [#20](https://github.com/Senither/ShareX-Media-Server/issues/20) in [Senither/ShareX-Media-Server](https://github.com/Senither/ShareX-Media-Server)
+3. 🗣 Commented on [#20](https://github.com/Senither/ShareX-Media-Server/issues/20) in [Senither/ShareX-Media-Server](https://github.com/Senither/ShareX-Media-Server)
+4. 🗣 Commented on [#22](https://github.com/Senither/ShareX-Media-Server/issues/22) in [Senither/ShareX-Media-Server](https://github.com/Senither/ShareX-Media-Server)
+5. 🎉 Merged PR [#22](https://github.com/Senither/ShareX-Media-Server/pull/22) in [Senither/ShareX-Media-Server](https://github.com/Senither/ShareX-Media-Server)
 <!--END_SECTION:activity-->
 
 [website]: https://senither.com
