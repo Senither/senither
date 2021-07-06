@@ -5,11 +5,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#26](https://github.com/Senither/hypixel-discord-chat-bridge/issues/26) in [Senither/hypixel-discord-chat-bridge](https://github.com/Senither/hypixel-discord-chat-bridge)
-2. 🗣 Commented on [#26](https://github.com/Senither/hypixel-discord-chat-bridge/issues/26) in [Senither/hypixel-discord-chat-bridge](https://github.com/Senither/hypixel-discord-chat-bridge)
-3. 🗣 Commented on [#26](https://github.com/Senither/hypixel-discord-chat-bridge/issues/26) in [Senither/hypixel-discord-chat-bridge](https://github.com/Senither/hypixel-discord-chat-bridge)
-4. 🗣 Commented on [#26](https://github.com/Senither/hypixel-discord-chat-bridge/issues/26) in [Senither/hypixel-discord-chat-bridge](https://github.com/Senither/hypixel-discord-chat-bridge)
-5. ❗️ Closed issue [#27](https://github.com/Senither/ShareX-Media-Server/issues/27) in [Senither/ShareX-Media-Server](https://github.com/Senither/ShareX-Media-Server)
+1. ❌ Closed PR [#6](https://github.com/Senither/Laravel-News/pull/6) in [Senither/Laravel-News](https://github.com/Senither/Laravel-News)
+2. ❌ Closed PR [#5](https://github.com/Senither/Laravel-News/pull/5) in [Senither/Laravel-News](https://github.com/Senither/Laravel-News)
+3. ❌ Closed PR [#4](https://github.com/Senither/Laravel-News/pull/4) in [Senither/Laravel-News](https://github.com/Senither/Laravel-News)
+4. ❌ Closed PR [#3](https://github.com/Senither/Laravel-News/pull/3) in [Senither/Laravel-News](https://github.com/Senither/Laravel-News)
+5. ❌ Closed PR [#2](https://github.com/Senither/Laravel-News/pull/2) in [Senither/Laravel-News](https://github.com/Senither/Laravel-News)
 <!--END_SECTION:activity-->
 
 [website]: https://senither.com
