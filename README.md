@@ -5,11 +5,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/Senither/java-music-bot/pull/1) in [Senither/java-music-bot](https://github.com/Senither/java-music-bot)
-2. 🗣 Commented on [#36](https://github.com/Senither/hypixel-discord-chat-bridge/issues/36) in [Senither/hypixel-discord-chat-bridge](https://github.com/Senither/hypixel-discord-chat-bridge)
-3. ❗️ Closed issue [#36](https://github.com/Senither/hypixel-discord-chat-bridge/issues/36) in [Senither/hypixel-discord-chat-bridge](https://github.com/Senither/hypixel-discord-chat-bridge)
-4. 🎉 Merged PR [#23](https://github.com/Senither/Hypixel-Skyblock-Leaderboard/pull/23) in [Senither/Hypixel-Skyblock-Leaderboard](https://github.com/Senither/Hypixel-Skyblock-Leaderboard)
-5. 🎉 Merged PR [#6](https://github.com/Senither/hypixel-skyblock-guild-scanner/pull/6) in [Senither/hypixel-skyblock-guild-scanner](https://github.com/Senither/hypixel-skyblock-guild-scanner)
+1. ❗️ Closed issue [#38](https://github.com/Senither/hypixel-discord-chat-bridge/issues/38) in [Senither/hypixel-discord-chat-bridge](https://github.com/Senither/hypixel-discord-chat-bridge)
+2. 🗣 Commented on [#38](https://github.com/Senither/hypixel-discord-chat-bridge/issues/38) in [Senither/hypixel-discord-chat-bridge](https://github.com/Senither/hypixel-discord-chat-bridge)
+3. 🎉 Merged PR [#37](https://github.com/Senither/hypixel-discord-chat-bridge/pull/37) in [Senither/hypixel-discord-chat-bridge](https://github.com/Senither/hypixel-discord-chat-bridge)
+4. 🗣 Commented on [#37](https://github.com/Senither/hypixel-discord-chat-bridge/issues/37) in [Senither/hypixel-discord-chat-bridge](https://github.com/Senither/hypixel-discord-chat-bridge)
+5. ❌ Closed PR [#1](https://github.com/Senither/java-music-bot/pull/1) in [Senither/java-music-bot](https://github.com/Senither/java-music-bot)
 <!--END_SECTION:activity-->
 
 [website]: https://senither.com
