@@ -1,6 +1,6 @@
 ### Hi there, I'm Alexis - aka [Senither][website] 👋
 
-![Overall stats](https://github-readme-stats.vercel.app/api?username=senither&theme=cobalt&show_icons=true&count_private=true)
+![Overall stats](https://github-stats-extended.vercel.app/api?username=senither&theme=cobalt&show_icons=true&count_private=true)
 
 ### :zap: Recent Activity
 
